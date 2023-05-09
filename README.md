@@ -1,6 +1,6 @@
 # Simple Form Validator
 
-Simple Sign Up form made with Pure JS, CSS and HTML. [Demo](https://katepysova.github.io/Simple-Form-Validator/).
+Simple Sign Up form made with Pure JS, CSS and HTML. [Demo](https://katepysova.github.io/Form-Validation/).
 
 ## Installation
 
