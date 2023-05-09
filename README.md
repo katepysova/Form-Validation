@@ -6,7 +6,7 @@ Simple Sign Up form made with Pure JS, CSS and HTML. [Demo](https://katepysova.g
 
 1. Clone this repo or downloand zip:
 
-   `git@github.com:katepysova/Simple-Form-Validator.git`
+   `git@github.com:katepysova/Form-Validation.git`
 
 2. Change your current directory to this project directory.
 
